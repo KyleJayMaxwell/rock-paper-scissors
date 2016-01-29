@@ -1,0 +1,20 @@
+.choices{
+  margin: 0 auto;
+  text-align: center;
+}
+button img:hover {
+  box-shadow: 10px 10px 10px green;
+}
+
+.counters, .results{
+  max-width: 100%;
+  text-align: center;
+  background-color: burlywood;
+}
+
+.reset{
+  text-align: center;
+}
+.reset button{
+  background-color: yellow;
+}
