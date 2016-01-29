@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-Made with Mike Diguiseppi
+Made with Mike Diguiseppi!
